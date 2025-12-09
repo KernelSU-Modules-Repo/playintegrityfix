@@ -1,0 +1,11 @@
+{
+    "summary": "Fix Play Integrity <A13 verdicts, allowing custom fields and props",
+    "sourceUrl": "https://github.com/osm0sis/PlayIntegrityFork",
+    "additionalAuthors": [
+        {
+            "type": "add",
+            "name": "chiteroman",
+            "link": "https://github.com/chiteroman"
+        }
+    ]
+}
