@@ -1,5 +1,5 @@
 {
-    "summary": "Fix Play Integrity <A13 verdicts, allowing custom fields and props",
+    "summary": "Fix Play Integrity <A13 verdicts and Google Wallet/RCS on Android 7+",
     "sourceUrl": "https://github.com/osm0sis/PlayIntegrityFork",
     "additionalAuthors": [
         {
